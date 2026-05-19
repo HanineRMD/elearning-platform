@@ -2,5 +2,3 @@ node_modules/
 *.tar 
 *.tar.gz 
 .env 
-dist/ 
-build/ 
